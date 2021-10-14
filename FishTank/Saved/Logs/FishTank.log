@@ -785,3 +785,153 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.14-05.02.13:338][  0]LogAssetRegistry: Asset discovery search completed in 3.6211 seconds
 [2021.10.14-05.02.13:339][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2021.10.14-05.02.13:370][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.14-05.03.46:922][946]LogBlueprint: Warning: [AssetLog] C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Content\Blueprints\BP_RBPawn.uasset: [Compiler] InputAction Event references unknown Action 'TurnCounterClockwise' for  InputAction TurnCounterClockwise
+[2021.10.14-05.03.46:922][946]LogBlueprint: Warning: [AssetLog] C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Content\Blueprints\BP_RBPawn.uasset: [Compiler] Input Axis Event references unknown Axis 'InputForward' for  InputAxis InputForward
+[2021.10.14-05.03.46:923][946]LogBlueprint: Warning: [AssetLog] C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Content\Blueprints\BP_RBPawn.uasset: [Compiler] InputAction Event references unknown Action 'TurnClockwise' for  InputAction TurnClockwise
+[2021.10.14-05.04.07:169][699]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-05.04.07:174][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-05.04.07:175][699]PIE: New page: PIE session: Untitled_1 (Oct 13, 2021, 7:04:07 PM)
+[2021.10.14-05.04.07:176][699]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.14-05.04.07:177][699]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.14-05.04.07:177][699]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.14-05.04.07:179][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002104s)
+[2021.10.14-05.04.07:180][699]LogAIModule: Creating AISystem for world Untitled_1
+[2021.10.14-05.04.07:180][699]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2021.10.14-05.04.07:180][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003647s)
+[2021.10.14-05.04.07:186][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.14-05.04.07:187][699]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-05.04.07:187][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-05.04.07:187][699]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-05.04.07:187][699]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-05.04.07:190][699]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-05.04.07:190][699]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-05.04.07:205][699]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.10.14-05.04.07:205][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-05.04.07:205][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-05.04.07:205][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-05.04.07:205][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-05.04.07:205][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-05.04.07:205][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-05.04.07:221][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-05.04.07:221][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-05.04.07:221][699]LogInit: FAudioDevice initialized.
+[2021.10.14-05.04.07:221][699]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2021.10.14-05.04.07:231][699]LogLoad: Game class is 'BP_RBGM_C'
+[2021.10.14-05.04.07:233][699]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2021.10.14-00.04.07
+[2021.10.14-05.04.07:233][699]LogWorld: Bringing up level for play took: 0.000691
+[2021.10.14-05.04.07:235][699]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.10.14-05.04.07:238][699]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.10.14-05.04.07:239][699]LogScript: Warning: Accessed None trying to read property NWBounds
+	BP_Component_TeleportOnExit_C /Temp/UEDPIE_0_Untitled_1.Untitled_1:PersistentLevel.BP_RBPawn_C_0.BP_Component_TeleportOnExit
+	Function /Game/Blueprints/BP_Component_TeleportOnExit.BP_Component_TeleportOnExit_C:ExecuteUbergraph_BP_Component_TeleportOnExit:029F
+[2021.10.14-05.04.07:239][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NWBounds". Blueprint:  BP_Component_TeleportOnExit Function:  Execute Ubergraph BP Component Teleport on Exit Graph:  EventGraph Node:  Set XBounds
+[2021.10.14-05.04.07:239][699]LogScript: Warning: Accessed None trying to read property NWBounds
+	BP_Component_TeleportOnExit_C /Temp/UEDPIE_0_Untitled_1.Untitled_1:PersistentLevel.BP_RBPawn_C_0.BP_Component_TeleportOnExit
+	Function /Game/Blueprints/BP_Component_TeleportOnExit.BP_Component_TeleportOnExit_C:ExecuteUbergraph_BP_Component_TeleportOnExit:031C
+[2021.10.14-05.04.07:239][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NWBounds". Blueprint:  BP_Component_TeleportOnExit Function:  Execute Ubergraph BP Component Teleport on Exit Graph:  EventGraph Node:  Set YBounds
+[2021.10.14-05.04.07:239][699]PIE: Server logged in
+[2021.10.14-05.04.07:240][699]PIE: Play in editor total start time 0.066 seconds.
+[2021.10.14-05.04.09:075][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-05.04.09:075][804]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.14-05.04.09:075][804]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-05.04.09:075][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-05.04.09:090][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-05.04.09:092][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-05.04.09:098][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-05.04.09:098][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-05.04.09:099][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-05.04.09:119][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-05.04.09:121][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.10.14-05.04.09:228][804]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.14-05.04.09:241][805]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.10.14-05.04.11:337][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.14-05.04.11:358][910]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.14-05.04.11:397][910]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2021.10.14-05.04.11:397][910]Cmd: MAP LOAD FILE="../../../../../../Users/jonas/Documents/Unreal Projects/FlightSchool/FishTank/FishTank/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.14-05.04.11:397][910]LightingResults: New page: Lighting Build
+[2021.10.14-05.04.11:397][910]LoadErrors: New page: Loading map: TestMap.umap
+[2021.10.14-05.04.11:398][910]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-05.04.11:398][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-05.04.11:398][910]MapCheck: New page: Map Check
+[2021.10.14-05.04.11:398][910]LightingResults: New page: Lighting Build
+[2021.10.14-05.04.11:402][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-05.04.11:403][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.14-05.04.11:404][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.10.14-05.04.11:407][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-05.04.11:407][910]LogAIModule: Creating AISystem for world TestMap
+[2021.10.14-05.04.11:413][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.14-05.04.11:414][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-05.04.11:414][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.10.14-05.04.11:415][910]LogFileHelpers: Loading map 'TestMap' took 0.017
+[2021.10.14-05.04.13:751][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-05.04.13:756][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-05.04.13:756][ 24]PIE: New page: PIE session: TestMap (Oct 13, 2021, 7:04:13 PM)
+[2021.10.14-05.04.13:756][ 24]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2021.10.14-05.04.13:760][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003648s)
+[2021.10.14-05.04.13:761][ 24]LogAIModule: Creating AISystem for world TestMap
+[2021.10.14-05.04.13:761][ 24]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2021.10.14-05.04.13:761][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005427s)
+[2021.10.14-05.04.13:766][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.10.14-05.04.13:767][ 24]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-05.04.13:767][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-05.04.13:767][ 24]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-05.04.13:767][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-05.04.13:769][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-05.04.13:770][ 24]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-05.04.13:782][ 24]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2021.10.14-05.04.13:783][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-05.04.13:783][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-05.04.13:783][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-05.04.13:783][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-05.04.13:783][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-05.04.13:783][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-05.04.13:797][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-05.04.13:797][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-05.04.13:797][ 24]LogInit: FAudioDevice initialized.
+[2021.10.14-05.04.13:797][ 24]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2021.10.14-05.04.13:808][ 24]LogLoad: Game class is 'BP_RBGM_C'
+[2021.10.14-05.04.13:810][ 24]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2021.10.14-00.04.13
+[2021.10.14-05.04.13:810][ 24]LogWorld: Bringing up level for play took: 0.000769
+[2021.10.14-05.04.13:811][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.10.14-05.04.13:814][ 24]LogScript: Warning: Accessed None trying to read property NWBounds
+	BP_Component_TeleportOnExit_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RBPawn_C_0.BP_Component_TeleportOnExit
+	Function /Game/Blueprints/BP_Component_TeleportOnExit.BP_Component_TeleportOnExit_C:ExecuteUbergraph_BP_Component_TeleportOnExit:029F
+[2021.10.14-05.04.13:814][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NWBounds". Blueprint:  BP_Component_TeleportOnExit Function:  Execute Ubergraph BP Component Teleport on Exit Graph:  EventGraph Node:  Set XBounds
+[2021.10.14-05.04.13:814][ 24]LogScript: Warning: Accessed None trying to read property NWBounds
+	BP_Component_TeleportOnExit_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_RBPawn_C_0.BP_Component_TeleportOnExit
+	Function /Game/Blueprints/BP_Component_TeleportOnExit.BP_Component_TeleportOnExit_C:ExecuteUbergraph_BP_Component_TeleportOnExit:031C
+[2021.10.14-05.04.13:814][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NWBounds". Blueprint:  BP_Component_TeleportOnExit Function:  Execute Ubergraph BP Component Teleport on Exit Graph:  EventGraph Node:  Set YBounds
+[2021.10.14-05.04.13:814][ 24]PIE: Server logged in
+[2021.10.14-05.04.13:814][ 24]PIE: Play in editor total start time 0.06 seconds.
+[2021.10.14-05.04.17:143][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-05.04.17:143][215]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2021.10.14-05.04.17:143][215]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-05.04.17:143][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-05.04.17:154][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-05.04.17:156][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-05.04.17:160][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-05.04.17:160][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-05.04.17:161][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-05.04.17:176][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-05.04.17:177][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.14-05.04.17:233][216]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.10.14-05.04.20:708][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.10.14-05.04.20:719][390]LogSavePackage: Moving '../../../../../../Users/jonas/Documents/Unreal Projects/FlightSchool/FishTank/FishTank/Saved/TestMapA01DABA74128DD19CFB835A910F64375.tmp' to '../../../../../../Users/jonas/Documents/Unreal Projects/FlightSchool/FishTank/FishTank/Content/Levels/TestMap.umap'
+[2021.10.14-05.04.20:747][390]LogSavePackage: Moving '../../../../../../Users/jonas/Documents/Unreal Projects/FlightSchool/FishTank/FishTank/Saved/TestMap_BuiltData282C9F76430BC085B0201ABBBA02789E.tmp' to '../../../../../../Users/jonas/Documents/Unreal Projects/FlightSchool/FishTank/FishTank/Content/Levels/TestMap_BuiltData.uasset'
+[2021.10.14-05.04.20:764][390]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.14-05.04.20:764][390]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2021.10.14-05.04.20:764][390]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
