@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jonas\\Documents\\Unreal Projects\\FlightSchool\\FishTank\\FishTank\\Source\\FishTank\\FishTank.Build.cs",
+		"C:\\Users\\jonas\\Documents\\Unreal Projects\\FlightSchool\\FishTank\\FishTank\\Source\\FishTank.Target.cs",
+		"C:\\Users\\jonas\\Documents\\Unreal Projects\\FlightSchool\\FishTank\\FishTank\\Source\\FishTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

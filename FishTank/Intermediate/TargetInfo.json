@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FishTank",
+			"Path": "C:\\Users\\jonas\\Documents\\Unreal Projects\\FlightSchool\\FishTank\\FishTank\\Source\\FishTank.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FishTankEditor",
+			"Path": "C:\\Users\\jonas\\Documents\\Unreal Projects\\FlightSchool\\FishTank\\FishTank\\Source\\FishTankEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

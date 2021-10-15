@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FishTank.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{585A7497-1A4C-4FAE-8A8F-FC7E912070A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FishTank.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FishTankEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{768827EC-32A6-4788-BD87-47ACCB828E44}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FishTank">
+      <UniqueIdentifier>{27141BC2-0416-4AF7-AB6E-1356A62B14EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FishTank\FishTank.Build.cs">
+      <Filter>Source\FishTank</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FishTank\FishTank.cpp">
+      <Filter>Source\FishTank</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FishTank\FishTank.h">
+      <Filter>Source\FishTank</Filter>
+    </ClInclude>
+    <Filter Include="Source\FishTank\Private">
+      <UniqueIdentifier>{F7A111B5-F64A-4796-89D9-93C5AA732A47}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FishTank\Private\AC_SpinAndBob.cpp">
+      <Filter>Source\FishTank\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FishTank\Private\UAC_TeleportActor.cpp">
+      <Filter>Source\FishTank\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FishTank\Public">
+      <UniqueIdentifier>{577A4D19-A701-4498-A2C4-6798AA7AD1ED}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FishTank\Public\AC_SpinAndBob.h">
+      <Filter>Source\FishTank\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FishTank\Public\UAC_TeleportActor.h">
+      <Filter>Source\FishTank\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

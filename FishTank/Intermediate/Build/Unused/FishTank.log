@@ -1,0 +1,18 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank).
+  Creating makefile for FishTankEditor (no existing makefile)
+  Parsing headers for FishTankEditor
+    Running UnrealHeaderTool "C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\FishTank.uproject" "C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\FishTankEditor\Development\FishTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\jonas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for FishTankEditor in 3.7660204 seconds
+  Building FishTankEditor...
+  Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] UAC_TeleportActor.cpp
+    [2/6] FishTank.init.gen.cpp
+    [3/6] UAC_TeleportActor.gen.cpp
+    [4/6] UE4Editor-FishTank-0002.lib
+       Creating library C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UE4Editor-FishTank-0002.lib and object C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UE4Editor-FishTank-0002.exp
+    [5/6] UE4Editor-FishTank-0002.dll
+       Creating library C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UE4Editor-FishTank-0002.suppressed.lib and object C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UE4Editor-FishTank-0002.suppressed.exp
+    [6/6] FishTankEditor.target
+  Total time in Parallel executor: 1.36 seconds
+  Total execution time: 7.07 seconds

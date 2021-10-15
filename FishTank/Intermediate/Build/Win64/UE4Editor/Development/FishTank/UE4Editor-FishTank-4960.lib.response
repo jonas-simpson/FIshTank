@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FishTank-4960.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\FishTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\AC_SpinAndBob.cpp.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UAC_TeleportActor.cpp.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\FishTank.cpp.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\AC_SpinAndBob.gen.cpp.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\FishTank.init.gen.cpp.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UAC_TeleportActor.gen.cpp.obj"
+"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\Default.rc2.res"
+/OUT:"C:\Users\jonas\Documents\Unreal Projects\FlightSchool\FishTank\FishTank\Intermediate\Build\Win64\UE4Editor\Development\FishTank\UE4Editor-FishTank-4960.lib"
+/INCLUDE:IMPLEMENT_MODULE_FishTank
