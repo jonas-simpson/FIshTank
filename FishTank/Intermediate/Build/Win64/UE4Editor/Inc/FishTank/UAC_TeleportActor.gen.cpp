@@ -92,7 +92,7 @@ void EmptyLinkFunctionForGeneratedCodeUAC_TeleportActor() {}
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UUAC_TeleportActor_Statics::NewProp_col = { "col", nullptr, (EPropertyFlags)0x001000000008000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UUAC_TeleportActor, col), Z_Construct_UClass_USphereComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UUAC_TeleportActor_Statics::NewProp_col_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UUAC_TeleportActor_Statics::NewProp_col_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UUAC_TeleportActor_Statics::NewProp_parent_MetaData[] = {
-		{ "Category", "Colliders" },
+		{ "Category", "Settings" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Public/UAC_TeleportActor.h" },
 	};
@@ -131,7 +131,7 @@ void EmptyLinkFunctionForGeneratedCodeUAC_TeleportActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UUAC_TeleportActor, 2180749532);
+	IMPLEMENT_CLASS(UUAC_TeleportActor, 1224152939);
 	template<> FISHTANK_API UClass* StaticClass<UUAC_TeleportActor>()
 	{
 		return UUAC_TeleportActor::StaticClass();

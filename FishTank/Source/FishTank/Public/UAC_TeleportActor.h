@@ -35,6 +35,6 @@ public:
 	float maxY = 1800;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Colliders", meta=(UseComponentPicker))
 	class USphereComponent* col;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Colliders")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Settings")
 	class USceneComponent* parent;
 };

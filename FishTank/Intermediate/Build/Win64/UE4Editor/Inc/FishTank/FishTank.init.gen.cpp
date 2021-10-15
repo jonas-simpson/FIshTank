@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeFishTank_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xC39D8C5E,
+				0x62399515,
 				0x12362258,
 				METADATA_PARAMS(nullptr, 0)
 			};
